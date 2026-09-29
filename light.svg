@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
+role="img" aria-label="Kaustav Mani Deka — AI/ML Engineer · Full-Stack Developer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEF6FF"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4F46E5"/><stop offset="55%" stop-color="#0891B2"/><stop offset="100%" stop-color="#10B981"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+    <stop offset="0%" stop-color="#0891B2" stop-opacity=".18"/>
+    <stop offset="100%" stop-color="#0891B2" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="8" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#E2E8F0" stroke-width="1" opacity=".55"/>
+  </pattern>
+  <clipPath id="leftClip"><rect x="24" y="70" width="405" height="510" rx="20"/></clipPath>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .ascii { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+              font-size: 4.25px; fill: #0F172A; white-space: pre; letter-spacing: -.15px; }
+    .label { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+              font-size: 10px; letter-spacing: 2px; fill: #0369A1; }
+    .body { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+             fill: #0F172A; }
+  </style>
+</defs>
+
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#CBD5E1" stroke-width="1.5"/>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#grid)" opacity=".28"/>
+<circle cx="230" cy="270" r="250" fill="url(#glow)">
+  <animate attributeName="r" values="235;265;235" dur="10s" repeatCount="indefinite"/>
+</circle>
+
+<!-- terminal header -->
+<rect x="24" y="22" width="1132" height="36" rx="12" fill="#FFFFFF" fill-opacity=".72" stroke="#CBD5E1"/>
+<circle cx="44" cy="40" r="5" fill="#EF4444"/>
+<circle cx="62" cy="40" r="5" fill="#EAB308"/>
+<circle cx="80" cy="40" r="5" fill="#22C55E"/>
+<text x="102" y="44" class="mono" font-size="12" fill="#475569">kaustavvdeka@profile</text>
+<text x="1040" y="44" class="mono" font-size="11" fill="#0891B2">[ ONLINE ]</text>
+
+<!-- left visual -->
+<rect x="24" y="70" width="405" height="510" rx="20" fill="#FFFFFF" fill-opacity=".35" stroke="#CBD5E1"/>
+<text x="50" y="100" class="label">VISUAL.MAP</text>
+<text x="50" y="121" class="mono" font-size="10" fill="#475569">~/profile $ render --identity</text>
+<g clip-path="url(#leftClip)">
+  <rect x="45" y="142" width="363" height="360" fill="#64748B" opacity=".08"/>
+  <g transform="translate(60,155)"><text x="0" y="0.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.500s" dur=".35s" to=".92" fill="freeze"/>********************###%@%*==----::::....:=+++++++**##%%@%%%%%-:----:=**#%#*#*##**#####*.</text>
+<text x="0" y="5.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.515s" dur=".35s" to=".92" fill="freeze"/>***********************%%%*=-----::::......:--=+=+**##==+%%%%%-:---::+**#%###*##**#####*</text>
+<text x="0" y="10.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.530s" dur=".35s" to=".92" fill="freeze"/>***********************#%@*==----::.....:....:==+**++-:::+%%%#:::-:::+**%%*##*##**#####+</text>
+<text x="0" y="15.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.545s" dur=".35s" to=".92" fill="freeze"/>+++**********************%+==--:::..:::::::.::+++*=-:-: :-#%%+:::::::+**%%*##*##****###=</text>
+<text x="0" y="20.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.560s" dur=".35s" to=".92" fill="freeze"/>++++++++++++++++++***+****+==--::.....:::::::-=++=:.::::::*%%-.::::::*#*%#*#**##****#*#=</text>
+<text x="0" y="25.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.575s" dur=".35s" to=".92" fill="freeze"/>++++++++++++++++++++++++*+===--=++--:...::::::-==-..:==:::+@*:..:::.:*#*%++#**#*****#*#-</text>
+<text x="0" y="30.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.590s" dur=".35s" to=".92" fill="freeze"/>+++++++++++++++++++++++++*+-=*#%#+==-::::::::::==:..-=--::+@*...::..:***#-+#**#*****#*#-</text>
+<text x="0" y="35.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.605s" dur=".35s" to=".92" fill="freeze"/>=++=+++++++++==+++++++++++%+=*%##+--==-::::::::--:..:=--::*@-...:...:+*#+:+#**#*****###:</text>
+<text x="0" y="40.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.620s" dur=".35s" to=".92" fill="freeze"/>========++=========+++++##%#+=+*+#=:-*=-::.:::.:::..:==-:-%#:.......:+*#=:*#*******####:</text>
+<text x="0" y="45.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.635s" dur=".35s" to=".92" fill="freeze"/>=======================+%##%*=-+**++#+-::......:::..+=.::=@+........:+*#=:*#*******####:</text>
+<text x="0" y="50.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.650s" dur=".35s" to=".92" fill="freeze"/>========================**#%#--=+##%*+-::......:::..-:::-+@-........:+##=-*#*******####.</text>
+<text x="0" y="55.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.665s" dur=".35s" to=".92" fill="freeze"/>========================+***+:-==+#*=-::....::::::.::..:-+%:........:+#*+=*********###*. .</text>
+<text x="0" y="60.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.680s" dur=".35s" to=".92" fill="freeze"/>======*#=================*#*-.::-=+*--:.....::::::.:-::--+#.........-+#*=-*#*#****####*.</text>
+<text x="0" y="65.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.695s" dur=".35s" to=".92" fill="freeze"/>+++=+#@#++===-=-=-===*#+==##-..::==*-::.....::::::::-:::-++.........-+**=-*#*#****####*.</text>
+<text x="0" y="70.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.710s" dur=".35s" to=".92" fill="freeze"/>%#+-*@@%*====*=--++++*@%+=+*-..:-=+*-:......::::::::-:::-+=... .... -+=*+=*#*#***#####+</text>
+<text x="0" y="75.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.725s" dur=".35s" to=".92" fill="freeze"/>**++*%%#*=--#@=-*@+=+*@@%+=+:...:-++-:.....:::::::::--::-==... .... -==*+=*####**#####+</text>
+<text x="0" y="80.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.740s" dur=".35s" to=".92" fill="freeze"/>-#*****++++#@%=*@%=++*@%@%*+:..::.-=-:::::::::::::::--::-==...  ... -==*+=*#####*####%+</text>
+<text x="0" y="85.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.755s" dur=".35s" to=".92" fill="freeze"/>=++=+*#%%%%@@%*@@%+++#@%%@#+:.::.---=-::::--::::::::--:--=+:..      -==**=###########%=</text>
+<text x="0" y="90.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.770s" dur=".35s" to=".92" fill="freeze"/>=----#@%#%%@@%@@@%+++#@@%%%*:.:-==-:-=-::---::::::::--:--=+=-::.    -==**=###########%=</text>
+<text x="0" y="95.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.785s" dur=".35s" to=".92" fill="freeze"/>%%#*##*+*%%@@@@@@%+***%@@%@%+:=#**=-=**=--=-::::::--=-:--==+=:: ....---*+=###########%- .</text>
+<text x="0" y="100.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.800s" dur=".35s" to=".92" fill="freeze"/>%#*%#***%%%%@@@@@%*****%@@@@%#%%#*=++*#+--=---:::--==::--==+=:.  . .=+=*+=###########%- .</text>
+<text x="0" y="105.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.815s" dur=".35s" to=".92" fill="freeze"/>#*=##+*%%%%@@@@@@%******%%###%%#*++====+=----:::--==-::--==*#:     :*##+=+############: ..</text>
+<text x="0" y="110.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.830s" dur=".35s" to=".92" fill="freeze"/>%%##%%%%%%%@@@@@@#****+*##*++###+=------=----::--=+=:::--=+#+     :+***+=#############: ....</text>
+<text x="0" y="115.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.845s" dur=".35s" to=".92" fill="freeze"/>@@@#@%%%%%%%@@@%#*****+*%#*++%%#+=-=--:----------++--::--+*=      .+++===*##########%#. ....</text>
+<text x="0" y="120.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.860s" dur=".35s" to=".92" fill="freeze"/>%%%#%##%%%%@%@%***##**+*#++==###+*+=--::---::---++------=*=        ::.:..+##########%#..</text>
+<text x="0" y="125.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.875s" dur=".35s" to=".92" fill="freeze"/>*###%##%%%%%@%%%%%%%%####*++=**#++#*=--:::----=+*=-----=+-        .=-::::+##########%*..   .</text>
+<text x="0" y="130.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.890s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%@%%%%%%%%%%%%%%%#%%%###*=---:----=+*=-----=+:          :*=++-*#########%%*..   .</text>
+<text x="0" y="135.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.905s" dur=".35s" to=".92" fill="freeze"/>@@%%%%%#%%%%%%%%%%%%%%%%%%%##%%%%%%#*=---===+**==---===:            .:**=*#########%%*......</text>
+<text x="0" y="140.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.920s" dur=".35s" to=".92" fill="freeze"/>%@%%%%%#%%%#%%#%%%%%%%%%%%%%%%%%%#%%#*+==+**#*+==-====.         .:..  :+###########%%+ ..  .</text>
+<text x="0" y="145.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.935s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%#%%##%%####%%%%%%%%%%%%%%###%%##**##%#++======         .::.      :+########%%%= .   .</text>
+<text x="0" y="150.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.950s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%#%%##%%####%%%%%%%%%%%%%%###%%%%%%#=+*++=====         .:.       .  -#######%%%= .  ..</text>
+<text x="0" y="155.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.965s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%#%%##%%#####%%%%%%%%%%%%%###%%%%#+--=*+++===.         .         ....-+#####%%%- .  ..</text>
+<text x="0" y="160.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.980s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%##%%#####%%%%%%%%%%%%%###%#+=-..:+++++==:                   .......-*##%%%%- .  .</text>
+<text x="0" y="165.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="0.995s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%#%%##%%#####%%%%%%%%%%%%%##%+..:... :+++++:          .       .........:-*%#%%%: .  .</text>
+<text x="0" y="170.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.010s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%#%%##%######%%%%%%%%%%%%%###.....   .=**+.         ....    .......::..::-*%%%%: . ..</text>
+<text x="0" y="175.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.025s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%#%%##%#######%%%%%%%%%%%%#%+ ...   ..-=-      .  .....   .....:::.::...::-+*%#:.....</text>
+<text x="0" y="180.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.040s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%#%%%######%%%%%%#%%%%##%- .....  ..         .:.    .......:.::.......::-:=*:.....</text>
+<text x="0" y="185.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.055s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%##: .........        ..   ........:......  ......:::::.....</text>
+<text x="0" y="190.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.070s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%#. ......:...      :.  .........:........  .. ...:.........</text>
+<text x="0" y="195.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.085s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%* ........-.  .....   ...................   .....::.....:..</text>
+<text x="0" y="200.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.100s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%- .......-%-  ..    .....................   . ....::...::..</text>
+<text x="0" y="205.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.115s" dur=".35s" to=".92" fill="freeze"/>%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%#%+ ......:.:#:       ....................  .    ..   ....::..</text>
+<text x="0" y="210.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.130s" dur=".35s" to=".92" fill="freeze"/>%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%*. .......     ... ..................:..... .          ...::.</text>
+<text x="0" y="215.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.145s" dur=".35s" to=".92" fill="freeze"/>%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%- ........    ......................:....                .:::</text>
+<text x="0" y="220.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.160s" dur=".35s" to=".92" fill="freeze"/>@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%: .... .      .................:..::....      ...         .::</text>
+<text x="0" y="225.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.175s" dur=".35s" to=".92" fill="freeze"/>@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%#. ..         .........................      . ..           .:</text>
+<text x="0" y="230.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.190s" dur=".35s" to=".92" fill="freeze"/>@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%#...          .....................  .       .. . .         .:</text>
+<text x="0" y="235.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.205s" dur=".35s" to=".92" fill="freeze"/>@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:..         .................. ...       . ... . . ..    .  :</text>
+<text x="0" y="240.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.220s" dur=".35s" to=".92" fill="freeze"/>@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-..         .................  ...      .. ... .... ..    . .</text>
+<text x="0" y="245.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.235s" dur=".35s" to=".92" fill="freeze"/>@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+...       .................. .   ...   ...... .... .. .. .</text>
+<text x="0" y="250.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.250s" dur=".35s" to=".92" fill="freeze"/>@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:..       .................  .   .  .......... ....... ....</text>
+<text x="0" y="255.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.265s" dur=".35s" to=".92" fill="freeze"/>@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=...     ..................     .   .......... .......... .</text>
+<text x="0" y="260.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.280s" dur=".35s" to=".92" fill="freeze"/>@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=..     .............. .      .   ........... .... .....  .</text>
+<text x="0" y="265.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.295s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-..     .............  .     ..   .........:...:.. ... .. .</text>
+<text x="0" y="270.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.310s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-..    ...............      ...  ......:..::.. :.. ...</text>
+<text x="0" y="275.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.325s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-. -*  ............:..     .... ..:..:.:::.:...:..... ...</text>
+<text x="0" y="280.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.340s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-. *% ......:........:. ........:::....:::.:....... .. ..</text>
+<text x="0" y="285.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.355s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=.... ......:........::.........::::...::::.:...:.. ... ..</text>
+<text x="0" y="290.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.370s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-..   .............:.::::......:::::.:.::::.:.. ...  .....</text>
+<text x="0" y="295.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.385s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@*...   ......:......:::::::....::::::.:.::::.:.. ... .:.....</text>
+<text x="0" y="300.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.400s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-.::  ......::.....:::::::..:..::::::.::..::..........:.....</text>
+<text x="0" y="305.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.415s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+::::. ......::.::..::::::::.:::::::::::::.:.... . ....:.....</text>
+<text x="0" y="310.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.430s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%%%#++-::::. .....:....:..::::::::::::::::::.::....... . ..........</text>
+<text x="0" y="315.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.445s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%%%%%%%%%%%%#+===-::-:.......:.:..:::::::::::::--:::::-:::...::....  .:.......</text>
+<text x="0" y="320.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.460s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%%%###%%%%%%%=::-==-----::..:..:.:...::::::::::::::--:::::::.:.::....  ....:.. .</text>
+<text x="0" y="325.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.475s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%%#**++*%%%%%-.=+==------::::::::.:...:::::::::::...:::::...:::.::..... ....:.. .</text>
+<text x="0" y="330.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.490s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%+==++=++#%%*:=#%%%=====---::::::::.:::.:::::::::...........:::.:::.... ....:..</text>
+<text x="0" y="335.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.505s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%#===+**+++#%##%%%%#=+++=------::::::::..:..:::..............:::. .:::.. ....:..</text>
+<text x="0" y="340.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.520s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%*=++=+***+#%%%%%%#+++++=====--::::::::.....:...........:::--::....::::..::.:...</text>
+<text x="0" y="345.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.535s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%%%#*+--==+***##%%%%#****++@#++==--:::::::..............:::::---:.::...:::..:..:...</text>
+<text x="0" y="350.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.550s" dur=".35s" to=".92" fill="freeze"/>%%%%%%%%%%#%#*=---===++++*%%%***##*+%%+*++=--::::::::::.......::::...:::--::: .  ....:..:::.</text>
+<text x="0" y="355.0" class="ascii" opacity="0"><animate attributeName="opacity" begin="1.565s" dur=".35s" to=".92" fill="freeze"/>%@%%%%%%%###*=====-====+*+*%%######++******=---::::::::::..::::::..-==*:.-:::... .   .:::.:</text></g>
+  <rect x="45" y="145" width="363" height="340" fill="none" stroke="#0891B2" opacity=".18">
+    <animate attributeName="opacity" values=".08;.24;.08" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <line x1="45" y1="170" x2="408" y2="170" stroke="#0891B2" opacity=".14">
+    <animate attributeName="y1" values="150;480;150" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="150;480;150" dur="7s" repeatCount="indefinite"/>
+  </line>
+</g>
+<text x="50" y="527" class="mono" font-size="16" font-weight="700" fill="#0F172A">AI/ML × FULL-STACK</text>
+<text x="50" y="550" class="mono" font-size="10.5" fill="#475569">Building software, intelligent systems &amp; digital products.</text>
+<text x="50" y="568" class="mono" font-size="10" fill="#0891B2">~/profile $ build --ship</text>
+
+<!-- right system info -->
+<rect x="451" y="70" width="705" height="510" rx="20" fill="#FFFFFF" fill-opacity=".42" stroke="#CBD5E1"/>
+<text x="480" y="101" class="label">SYSTEM.INFO</text>
+<text x="480" y="124" class="mono" font-size="10" fill="#475569">kaustavvdeka@profile:~$ ./profile.sh</text>
+
+<text x="480" y="161" class="mono" font-size="27" font-weight="800" fill="#0F172A" opacity="0">
+  Kaustav Mani Deka
+  <animate attributeName="opacity" begin=".7s" dur=".45s" to="1" fill="freeze"/>
+</text>
+<text x="480" y="187" class="mono" font-size="15" font-weight="600" fill="#0891B2" opacity="0">
+  AI/ML Engineer · Full-Stack Developer
+  <animate attributeName="opacity" begin="1s" dur=".45s" to="1" fill="freeze"/>
+</text>
+
+<line x1="480" y1="207" x2="1127" y2="207" stroke="#CBD5E1"/>
+
+<text x="480" y="234" class="label">PROFILE</text>
+<text x="480" y="258" class="mono" font-size="11" fill="#475569">EDUCATION</text>
+<text x="595" y="258" class="mono" font-size="11" fill="#0F172A">B.Tech CSE · Assam University, Silchar · 2027</text>
+
+<text x="480" y="282" class="mono" font-size="11" fill="#475569">FOCUS</text>
+<text x="595" y="282" class="mono" font-size="10.5" fill="#0F172A">AI/ML · Full-Stack · Backend · Web3 · Mobile</text>
+<text x="595" y="299" class="mono" font-size="10.5" fill="#0F172A">DSA · DBMS · Software Engineering</text>
+
+<line x1="480" y1="318" x2="1127" y2="318" stroke="#CBD5E1"/>
+
+<text x="480" y="344" class="label">STACK</text>
+<rect x="480" y="355" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="490" cy="367" r="3" fill="#0891B2"/>
+<text x="499" y="371" class="mono" font-size="9.5" fill="#0F172A">Python</text>
+<rect x="565" y="355" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="575" cy="367" r="3" fill="#0891B2"/>
+<text x="584" y="371" class="mono" font-size="9.5" fill="#0F172A">C++</text>
+<rect x="650" y="355" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="660" cy="367" r="3" fill="#0891B2"/>
+<text x="669" y="371" class="mono" font-size="9.5" fill="#0F172A">C</text>
+<rect x="735" y="355" width="94" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="745" cy="367" r="3" fill="#0891B2"/>
+<text x="754" y="371" class="mono" font-size="9.5" fill="#0F172A">JavaScript</text>
+<rect x="480" y="386" width="80" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="490" cy="398" r="3" fill="#0891B2"/>
+<text x="499" y="402" class="mono" font-size="9.5" fill="#0F172A">Solidity</text>
+<rect x="569" y="386" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="579" cy="398" r="3" fill="#0891B2"/>
+<text x="588" y="402" class="mono" font-size="9.5" fill="#0F172A">React</text>
+<rect x="654" y="386" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="664" cy="398" r="3" fill="#0891B2"/>
+<text x="673" y="402" class="mono" font-size="9.5" fill="#0F172A">Next.js</text>
+<rect x="739" y="386" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="749" cy="398" r="3" fill="#0891B2"/>
+<text x="758" y="402" class="mono" font-size="9.5" fill="#0F172A">Node.js</text>
+<rect x="480" y="417" width="94" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="490" cy="429" r="3" fill="#0891B2"/>
+<text x="499" y="433" class="mono" font-size="9.5" fill="#0F172A">Express.js</text>
+<rect x="583" y="417" width="108" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="593" cy="429" r="3" fill="#0891B2"/>
+<text x="602" y="433" class="mono" font-size="9.5" fill="#0F172A">React Native</text>
+<rect x="700" y="417" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="710" cy="429" r="3" fill="#0891B2"/>
+<text x="719" y="433" class="mono" font-size="9.5" fill="#0F172A">MongoDB</text>
+<rect x="785" y="417" width="108" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="795" cy="429" r="3" fill="#0891B2"/>
+<text x="804" y="433" class="mono" font-size="9.5" fill="#0F172A">Tailwind CSS</text>
+<rect x="480" y="448" width="87" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="490" cy="460" r="3" fill="#0891B2"/>
+<text x="499" y="464" class="mono" font-size="9.5" fill="#0F172A">Ethers.js</text>
+<rect x="576" y="448" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="586" cy="460" r="3" fill="#0891B2"/>
+<text x="595" y="464" class="mono" font-size="9.5" fill="#0F172A">Hardhat</text>
+<rect x="661" y="448" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="671" cy="460" r="3" fill="#0891B2"/>
+<text x="680" y="464" class="mono" font-size="9.5" fill="#0F172A">FastAPI</text>
+<rect x="746" y="448" width="94" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="756" cy="460" r="3" fill="#0891B2"/>
+<text x="765" y="464" class="mono" font-size="9.5" fill="#0F172A">TensorFlow</text>
+<rect x="480" y="479" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="490" cy="491" r="3" fill="#0891B2"/>
+<text x="499" y="495" class="mono" font-size="9.5" fill="#0F172A">Keras</text>
+<rect x="565" y="479" width="108" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="575" cy="491" r="3" fill="#0891B2"/>
+<text x="584" y="495" class="mono" font-size="9.5" fill="#0F172A">scikit-learn</text>
+<rect x="682" y="479" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="692" cy="491" r="3" fill="#0891B2"/>
+<text x="701" y="495" class="mono" font-size="9.5" fill="#0F172A">Git</text>
+<rect x="767" y="479" width="76" height="24" rx="8" fill="#0891B2" fill-opacity=".08" stroke="#0891B2" stroke-opacity=".35"/>
+<circle cx="777" cy="491" r="3" fill="#0891B2"/>
+<text x="786" y="495" class="mono" font-size="9.5" fill="#0F172A">GitHub</text>
+
+<line x1="480" y1="510" x2="1127" y2="510" stroke="#CBD5E1"/>
+<text x="480" y="535" class="label">CONNECT</text>
+<text x="595" y="535" class="mono" font-size="10.5" fill="#0891B2">GitHub</text>
+<text x="650" y="535" class="mono" font-size="10.5" fill="#475569">https://github.com/kaustavvdeka</text>
+<text x="595" y="556" class="mono" font-size="10.5" fill="#0891B2">Portfolio</text>
+<text x="650" y="556" class="mono" font-size="10.5" fill="#475569">https://kaustavdekaportfolio.netlify.app/</text>
+
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="none" stroke="url(#accent)" stroke-width="1" opacity=".45">
+  <animate attributeName="opacity" values=".25;.6;.25" dur="6s" repeatCount="indefinite"/>
+</rect>
+</svg>
